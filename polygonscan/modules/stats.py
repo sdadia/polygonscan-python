@@ -20,6 +20,6 @@ class Stats:
             f"{fields.MODULE}"
             f"{modules.STATS}"
             f"{fields.ACTION}"
-            f"{actions.ETH_PRICE}"
+            f"{actions.MATIC_PRICE}"
         )
         return url

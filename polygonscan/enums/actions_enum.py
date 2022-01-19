@@ -41,6 +41,7 @@ class ActionsEnum:
     ETH_GET_TRANSACTION_RECEIPT: str = "eth_getTransactionReceipt"
     ETH_GET_UNCLE_BY_BLOCK_NUMBER_AND_INDEX: str = "eth_getUncleByBlockNumberAndIndex"
     ETH_PRICE: str = "ethprice"
+    MATIC_PRICE: str = "maticprice"
     ETH_SUPPLY: str = "ethsupply"
     GAS_ESTIMATE: str = "gasestimate"
     GAS_ORACLE: str = "gasoracle"
